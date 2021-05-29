@@ -1,7 +1,5 @@
 # GeradorDeCartaoDeCreditoVirtual
 
-![image](https://user-images.githubusercontent.com/18118604/120052632-8e009a00-bffc-11eb-90f9-e45fbe72da9a.png)
-
 C sharp NET Core API  Generate CardCredit endpoints
 ----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
@@ -64,6 +62,10 @@ https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnet
 http://www.macoratti.net/12/05/c_rand1.htm#:~:text=Gerar%20n%C3%BAmeros%20aleat%C3%B3rios%20 //vou ter q encaixar isso
 http://www.macoratti.net/20/08/aspnc_email1.htm [11:19, 28/05/2021] // se pa dava ate pra criar um app de ler emails com isso  e enviar
 http://www.macoratti.net/18/04/aspcoremvc_email1.htm //vi isso aqui mas acho que nao vai precisar enviar o email em si
+
+exemplo com interface
+![image](https://user-images.githubusercontent.com/18118604/120052632-8e009a00-bffc-11eb-90f9-e45fbe72da9a.png)
+
 https://github.com/jessepollak/card //se fosse javascript tava meio caminho andado 
  
 
