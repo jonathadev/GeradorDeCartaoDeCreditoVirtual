@@ -1,4 +1,7 @@
 # GeradorDeCartaoDeCreditoVirtual
+
+![image](https://user-images.githubusercontent.com/18118604/120052632-8e009a00-bffc-11eb-90f9-e45fbe72da9a.png)
+
 C sharp NET Core API  Generate CardCredit endpoints
 ----------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------
@@ -63,4 +66,5 @@ http://www.macoratti.net/20/08/aspnc_email1.htm [11:19, 28/05/2021] // se pa dav
 http://www.macoratti.net/18/04/aspcoremvc_email1.htm //vi isso aqui mas acho que nao vai precisar enviar o email em si
 https://github.com/jessepollak/card //se fosse javascript tava meio caminho andado 
  
- blob:https://web.whatsapp.com/68de66f2-be88-4ede-b9e1-907effda5ceb
+
+
